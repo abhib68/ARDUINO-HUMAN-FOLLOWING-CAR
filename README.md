@@ -1,4 +1,4 @@
-# Arduino Human-Following Car 
+Arduino Human-Following Car 
 
 An autonomous mobile robot designed to track and follow a human target dynamically using ultrasonic and infrared proximity sensors.
 
